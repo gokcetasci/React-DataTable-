@@ -1,10 +1,9 @@
-import ObjectArraySample from "./data/ProductsTable";
-
+import ProductsTable from "./data/ProductsTable";
 
 function App() {
   return (
     <>
-      <ObjectArraySample/>
+      <ProductsTable/>
     </>
   );
 }
